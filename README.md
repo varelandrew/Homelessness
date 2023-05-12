@@ -16,5 +16,5 @@
 5. Then I identified missing values and ended up dropping nan values from total_homeless and dropping all rows that weren't from 2017.
 6. Lastly, I converted columns that consisted of some total of a group and made them into a percentage by every 10,000 people compared to the total_population.
 7. Then I exported the clean data set.
-- Here you can find the python file that follows these steps I listed: []()
-- Here you can find the cleaned csv file: []()
+- Here you can find the python file that follows these steps I listed: [Data Preparation File](https://github.com/varelandrew/Homelessness/blob/main/Andrew_Varela_DATA_3320_Homelessness_Data_Preparation_Template.ipynb)
+- Here you can find the cleaned csv file: [Clean Data]()
