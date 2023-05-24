@@ -18,3 +18,18 @@
 7. Then I exported the clean data set.
 - Here you can find the python file that follows these steps I listed: [Data Preparation File](https://github.com/varelandrew/Homelessness/blob/main/Andrew_Varela_DATA_3320_Homelessness_Data_Preparation_Template.ipynb)
 - Here you can find the cleaned csv file: [Clean Data](https://github.com/varelandrew/Homelessness/blob/main/clean_homeless.csv)
+
+## Data Analysis
+- What steps did I take to analyze my cleaned up data set from the steps above.
+1. I first imported necessary libraries and loaded the dataset and dictionary.
+2. I then loaded the clean data set, listed some analysis questions, and then started performing the analysis.
+3. I removed some variables that wouldn't help in the model, and created a X and Y variable to perform model regression.
+4. I performed a train test split which lead into noting down MSE, RMSE, and R-squared values.
+5. Next was the lasso regression and exploring its information.
+6. Then was the ridge regression and exploring its information.
+7. Then was the XGBoost and exploring its information.
+8. Lastly, it was the K-fold CV and exploring its information.
+9. That finished my original proposal, which led me into my additional proposal.
+10. In my additional proposal, I performed steps 4-8 with a new scaled y-value which was the rate of homelessness scaled by the log.
+11. I finished the file by concluding my findings for both the original proposal and additional proposal.
+- Here you can find the python file that follows these steps I listed: [Data Analysis File](https://github.com/varelandrew/Homelessness/blob/main/Andrew_Varela_DATA_3320_Homelessness_Analysis.ipynb)
