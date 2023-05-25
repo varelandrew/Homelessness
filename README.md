@@ -1,7 +1,7 @@
 # Addressing Homelessness by Improving our Understanding of Local Housing Market Factors and Homelessness' Relationship.
 
 ## Description
-- The purpose of the project is to identify market factors that have estabished effects on homelessness, and construct and evaluate empirical models of community-level homelessness. I will be using Python and Colab to perform operations that help me towards answering the above objectives. This includes cleaning up the original data sets, analyzing the data, and using topics like regularization techniques for multiple linear regression and using tree-based methods and XGBoost.
+- The purpose of the project is to identify market factors that have established effects on homelessness, and construct and evaluate empirical models of community-level homelessness. I will be using Python and Colab to perform operations that help me towards answering the above objectives. This includes cleaning up the original data sets, analyzing the data, and using topics like regularization techniques for multiple linear regression and using tree-based methods and XGBoost.
 
 ## Data
 - The dataset consists of various housing, economic, safety net, demographic, and climate factors sourced largely from HUD and U.S. Census Bureau databases. If you want a more in-depth look into the source of the data look here: [Market Predictors of Homelessness](https://www.huduser.gov/portal/sites/default/files/pdf/Market-Predictors-of-Homelessness.pdf).
